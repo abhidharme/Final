@@ -1,0 +1,161 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "teacher_name": "Flem",
+      "gender": "Male",
+      "age": 42,
+      "classes": 3
+    },
+    {
+      "id": 2,
+      "teacher_name": "Benedicta",
+      "gender": "Female",
+      "age": 28,
+      "classes": 5
+    },
+    {
+      "id": 3,
+      "teacher_name": "Dannie",
+      "gender": "Male",
+      "age": 30,
+      "classes": 1
+    },
+    {
+      "id": 4,
+      "teacher_name": "Ilise",
+      "gender": "Female",
+      "age": 49,
+      "classes": 4
+    },
+    {
+      "id": 5,
+      "teacher_name": "Jefferson",
+      "gender": "Male",
+      "age": 26,
+      "classes": 5
+    },
+    {
+      "id": 6,
+      "teacher_name": "Iseabal",
+      "gender": "Female",
+      "age": 39,
+      "classes": 4
+    },
+    {
+      "id": 7,
+      "teacher_name": "Debi",
+      "gender": "Female",
+      "age": 26,
+      "classes": 3
+    },
+    {
+      "id": 8,
+      "teacher_name": "Alleyn",
+      "gender": "Male",
+      "age": 23,
+      "classes": 5
+    },
+    {
+      "id": 9,
+      "teacher_name": "Carline",
+      "gender": "Female",
+      "age": 31,
+      "classes": 3
+    },
+    {
+      "id": 10,
+      "teacher_name": "Giacobo",
+      "gender": "Male",
+      "age": 38,
+      "classes": 6
+    },
+    {
+      "id": 11,
+      "teacher_name": "Saw",
+      "gender": "Male",
+      "age": 25,
+      "classes": 3
+    },
+    {
+      "id": 12,
+      "teacher_name": "Rocky",
+      "gender": "Male",
+      "age": 36,
+      "classes": 6
+    },
+    {
+      "id": 13,
+      "teacher_name": "Raymond",
+      "gender": "Male",
+      "age": 32,
+      "classes": 2
+    },
+    {
+      "teacher_name": "Abhi",
+      "gender": "Male",
+      "age": "24",
+      "classes": "3",
+      "status": false,
+      "id": 14
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "grade": 1,
+      "section": "B",
+      "subject": "CSS",
+      "teachersID": 1
+    },
+    {
+      "id": 2,
+      "grade": 2,
+      "section": "A",
+      "subject": "HTML",
+      "teachersID": 2
+    },
+    {
+      "id": 3,
+      "grade": 3,
+      "section": "C",
+      "subject": "IT",
+      "teachersID": 3
+    },
+    {
+      "id": 4,
+      "grade": 4,
+      "section": "C",
+      "subject": "CS",
+      "teachersID": 4
+    },
+    {
+      "id": 5,
+      "grade": 1,
+      "section": "C",
+      "subject": "REACT",
+      "teachersID": 5
+    },
+    {
+      "id": 6,
+      "grade": 2,
+      "section": "B",
+      "subject": "CSS",
+      "teachersID": 6
+    },
+    {
+      "id": 7,
+      "grade": 3,
+      "section": "A",
+      "subject": "HTML",
+      "teachersID": 7
+    },
+    {
+      "id": 8,
+      "grade": 4,
+      "section": "A",
+      "subject": "IT",
+      "teachersID": 8
+    }
+  ]
+}
